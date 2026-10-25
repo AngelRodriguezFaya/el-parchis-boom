@@ -2,10 +2,6 @@
 
 Calificación obtenida: 10/10
 
-[Si has realizado la práctica1, y tienes la clave SSH configurada, puedes ir directamente al [paso 2](#2.-crear-tu-copia-personal-del-repositorio-de-la-asignatura).
-
-
-
 ## Prerrequisitos
 
 ### Crear una cuenta en [GitHub](https://github.com/). 
